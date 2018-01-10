@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name silabs_extra)(type Legacy)(uri ${KIPRJMOD}/library/silabs_extra.lib)(options "")(descr ""))
+  (lib (name Keyboard)(type Legacy)(uri ${KIPRJMOD}/library/Keyboard.lib)(options "")(descr ""))
+  (lib (name texas_extra)(type Legacy)(uri ${KIPRJMOD}/library/texas_extra.lib)(options "")(descr ""))
+)
